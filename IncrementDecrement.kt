@@ -8,15 +8,15 @@
 
 fun main() {
 
-    var a = 5
-    a += 6                  // a = 11
+    var a = 5               // Default starting value
+    a += 6                  // a = 11, Incremented
 
-    var b = a * 9           // b = 99
-    var c = b / 3           // c = 33
-    c++                     // c = 34
+    var b = a * 9           // b = 99, Multiplied
+    var c = b / 3           // c = 33, Divided
+    c++                     // c = 34, Incremented
 
-    var d = c + 8           // d = 42
-    d %= 4                  // d = 2
-    d--                     // d = 1
-    print(d)
+    var d = c + 8           // d = 42, Added
+    d %= 4                  // d = 2, Modulus
+    d--                     // d = 1, Decremented
+    print(d)                // Final output value
 }

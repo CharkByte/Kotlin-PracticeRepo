@@ -35,6 +35,6 @@ fun main() {
     println("The car speed average is: $carDivide mph (division operation)")
 
     carMultiply %= 2
-    var carModulus = carMultiply
+    var carModulus = carMultiply        // Modulus car speed variable Initialized
     println("The car speed remainder is: $carModulus mph (modulus operation)")
 }

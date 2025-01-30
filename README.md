@@ -1,8 +1,6 @@
 * Kotlin Practice Repo *
 
-This Github repo is a record of programs, executable code on a path from beginner basics to android developer. 
+This Github repo is a record of programs and executable code on the learning path from beginner basics to android developer. 
 
-Starting from the basic concepts of Kotlin - syntax all the way to advanced 
-object oriented, data structures and algorithms concepts with Android Development. 
-
-Android Studio mobile development projects will be included as well. 
+Starting from basic Kotlin concepts for syntax, variables, loops and conditional statements all the way to  
+object oriented, data structures and algorithms concepts. Android mobile studio development will also be posted and explored.

@@ -12,7 +12,6 @@ fun main (){
     var price: Int
 
     if (priceHigh){
-
         price = 10000
     }
     else{
